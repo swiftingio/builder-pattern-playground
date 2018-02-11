@@ -2,3 +2,4 @@
 
 This playground contains the contents of corresponding [swifting.io](https://swifting.io/blog/2018/02/11/49-the-builder-pattern/) post.
 
+![](https://raw.githubusercontent.com/swiftingio/builder-pattern-playground/master/Builder.png)
