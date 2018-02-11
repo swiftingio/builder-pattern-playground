@@ -103,7 +103,7 @@ extension BetterBuilder {
 }
 
 /*:
-Our `BetterBuilder now works for structs!
+Our `BetterBuilder` now works for structs!
  */
 
 struct Bar: BetterBuilder {
